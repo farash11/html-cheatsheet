@@ -1,0 +1,23 @@
+main {
+  font-family: monospace;
+  font-size: 20px;
+}
+span {
+  display: block;
+}
+main h1 {
+  text-align: center;
+}
+main h2 {
+  text-align: center;
+  }
+ table{
+    border: 1px solid cornflowerblue;
+ }
+th {
+  background-color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+}
+td {
+   border: 1px solid cornflowerblue;
+}
